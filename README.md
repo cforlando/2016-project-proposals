@@ -5,8 +5,8 @@
 ## June 4th held @ Canvs 101 S. Garland Ave, Orlando Fl, 32801
 
 #### [:rocket: RSVP as a Hacker :rocket:](http://bit.ly/ndoch2016)
-#### [:bulb: Browse and Discuss Projects :bulb:](https://github.com/open-austin/atx-hack-for-change-2016/issues)
-#### [:star2: Propose a Project :star2:](https://github.com/open-austin/atx-hack-for-change-2016/issues/new)
+#### [:bulb: Browse and Discuss Projects :bulb:](https://github.com/cforlando/2016-project-proposals/issues)
+#### [:star2: Propose a Project :star2:](https://github.com/cforlando/2016-project-proposals/issues/new)
 
 ### Proposal submission deadline is May 27th.
 
@@ -20,7 +20,7 @@ First, you'll need to [create an account](https://github.com/join).
 
 Then you have two options: (1) comment on an existing idea (a.k.a. "issue"), or (2) create a new idea.
 
-If you see an idea that you're interested in, click on it, read the discussion and then add your thoughts to the bottom of the discussion thread. If you don't see the idea you have in mind, [add a new one](https://github.com/open-austin/atx-hack-for-change-2016/issues/new). Someone from the ATX Hack for Change Staff will respond with some questions or feedback.
+If you see an idea that you're interested in, click on it, read the discussion and then add your thoughts to the bottom of the discussion thread. If you don't see the idea you have in mind, [add a new one](https://github.com/cforlando/2016-project-proposals/issues/new). Someone from the ATX Hack for Change Staff will respond with some questions or feedback.
 
 *Here's a [quick video intro](https://www.youtube.com/watch?v=KlrJVSJRUN4) on using Github Issues for discussion.*
 
