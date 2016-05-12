@@ -31,3 +31,5 @@ Finalist projects will be announced on May 28th . All registered National Day of
 
 
 ![Submission Timeline](./images/timeline.png)
+
+[Thanks to ATX Austin's Code for America Brigade for creating this wonderful tool.](https://github.com/atxhack4change/2016-project-proposals)
