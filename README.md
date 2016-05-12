@@ -30,4 +30,4 @@ If you see an idea that you're interested in, click on it, read the discussion a
 Finalist projects will be announced on May 28th . All registered National Day of Civic Hacking participants will receive the announced projects and challenges. Additionally, at the event on Saturday, June 4th, all projects will be listed on a white board incase anyone has missed it. 
 
 
-![Submission Timeline](./images/TimelineUpdated.jpg)
+![Submission Timeline](./images/timeline.png)
