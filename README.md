@@ -1,16 +1,16 @@
-# ATX Hack for Change 2016
+# Code for Orlando's National Day of Civic Hacking
 
-![ATX Hack for Change Logo](./images/atx-hack-for-change.png)
+![National day of Civic Hacking Logo](./images/atx-hack-for-change.png)
 
-## June 3-5 held @ St. Edwards University
+## June 4th held @ Canvs 101 S. Garland Ave, Orlando Fl, 32801
 
-#### [:rocket: Register as a Hacker :rocket:](http://atxhackforchange.org/attend.html)
+#### [:rocket: RSVP as a Hacker :rocket:](http://bit.ly/ndoch2016)
 #### [:bulb: Browse and Discuss Projects :bulb:](https://github.com/open-austin/atx-hack-for-change-2016/issues)
 #### [:star2: Propose a Project :star2:](https://github.com/open-austin/atx-hack-for-change-2016/issues/new)
 
-### Proposal submission deadline is May 23rd.
+### Proposal submission deadline is May 27th.
 
-_If you need help or have some specific questions, email info@open-austin.org._
+_If you need help or have some specific questions, email codefororlando@gmail.com._
 
 ## Wondering how to propose or discuss your project ideas?
 
@@ -26,9 +26,8 @@ If you see an idea that you're interested in, click on it, read the discussion a
 
 ## I've submitted my proposal. What comes next?
 
-After May 8th, the project curation committee (which includes representatives from St. Edwards University, Open Austin, and the City of Austin Innovation Office) will follow up with potential project champions.
 
-Finalist projects will be announced on May 27. All registered ATX Hack for Change participants will receive the announced projects and challenges. Additionally, at the Friday, June 3rd kickoff event, the final projects listing will be available in print for those that might have missed it.
+Finalist projects will be announced on May 28th . All registered National Day of Civic Hacking participants will receive the announced projects and challenges. Additionally, at the event on Saturday, June 4th, all projects will be listed on a white board incase anyone has missed it. 
 
 
 ![Submission Timeline](./images/TimelineUpdated.jpg)
