@@ -1,6 +1,6 @@
 # Code for Orlando's National Day of Civic Hacking
 
-![National day of Civic Hacking Logo](./images/atx-hack-for-change.png)
+![National day of Civic Hacking Logo](./images/ndochlogo.png)
 
 ## June 4th held @ Canvs 101 S. Garland Ave, Orlando Fl, 32801
 
